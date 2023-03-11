@@ -1,4 +1,9 @@
-# 1-Simple Age Calculator
+# Calculator
+## Simple Gui calculator using .net windows forms.
+
+<img width="284" alt="Capture" src="https://user-images.githubusercontent.com/81354975/224505417-99901fe5-92b5-46b5-b0f5-cbc1762d23d0.PNG">
+
+# Simple Age Calculator
 ##  This is a simple age calculator that helps users to know their age easily 
 
 </p><img width="481" alt="Succuss" src="https://user-images.githubusercontent.com/81354975/224488155-9e45b24f-1a39-4f7f-bb90-c777b79f7aad.PNG">
